@@ -8,7 +8,9 @@ These instructions will help you get a copy of the project and set it up for tes
 ### **Development Setup**
 Required: Node.js
 1. Clone the repository:
-	```git clone https://github.com/michvong/maesh-bot.git```
+	```
+	git clone https://github.com/michvong/maesh-bot.git
+	```
 2. Install dependencies:
 	```
 	npm install
