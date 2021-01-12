@@ -32,6 +32,8 @@ Required: Node.js
 2.  On Discord, type in:
 	```
 	$convert <link of YouTube playlist>
+	or
+	$search <link of Spotify playlist>
 	```
 **Input:**
 
